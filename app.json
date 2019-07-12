@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "congratulations-for-family",
-    "slug": "congratulations-for-family",
+    "name": "test-app",
+    "slug": "test-app",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -24,7 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.lobanov.congratulations"
+      "bundleIdentifier": "com.lobanov.test-app"
     }
   }
 }
